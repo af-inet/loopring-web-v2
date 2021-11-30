@@ -3,9 +3,7 @@
 </p>
 
 
-TEST
-
-TEST 2
+This is easy to fake.
 
 
 <h1 align="center">Loopring Application</h1>
